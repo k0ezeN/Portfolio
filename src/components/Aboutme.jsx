@@ -14,7 +14,6 @@ const Aboutme = () => {
             Currently working for IBM as a Junior Blockchain developer, i'm studying computer science at ESILV Paris.<br/><br/>
             In 2016, i started to be interested into cryptocurrency and then by Blockchain. <br/>
             My aim is to work on several Blockchain projects with a team in order to increase my skills.
-
           </p>
         </div>
       </div>

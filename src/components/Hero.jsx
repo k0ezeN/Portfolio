@@ -12,7 +12,7 @@ const Hero = () => {
                       Andy GUÉRIN.
                 </h1>
                 <p className='md:text-4xl sm:text-3xl text-xl font-bold py-4'>
-                    I am  a full-stack developper using tools like 
+                    I am a full-stack developper using tools like 
                 </p>
                 <Typed
                 className='md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2'
