@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className='flex sticky top-0 w-full justify-between items-center h-24 mx-auto px-4 text-white z-[10] bg-[#000300]'>
-      <h1 className='w-full text-3xl font-bold text-[#00df9a] ml-24'>PORTFOLIO.</h1>
+      <h1 className='w-full text-3xl font-bold text-[#00df9a] ml-24'><Link to="hero" smooth={true} duration={500}>PORTFOLIO.</Link></h1>
       <ul className='hidden md:flex mr-24'>
           <li className='p-4'><Link to="hero" smooth={true} duration={500}>Home</Link></li>
           <li className='p-4'><Link to="aboutme" smooth={true} offset={-50} duration={500}>AboutMe</Link></li>
