@@ -10,9 +10,9 @@ const Aboutme = () => {
           <p className='text-[#00df9a] font-bold '>ABOUT ME</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Hi,</h1>
           <p>
-            My name is Andy GUÉRIN, i'm a 22 y/o student living in Paris. <br/>
-            Currently working for IBM as a Junior Blockchain developer, i'm studying computer science at ESILV Paris.<br/><br/>
-            In 2016, i started to be interested into cryptocurrency and then by Blockchain. <br/>
+            My name is Andy GUÉRIN, I'm a 22 y/o student living in Paris. <br/>
+            Currently working for IBM as a Junior Blockchain developer, I'm studying computer science at ESILV Paris.<br/><br/>
+            In 2016, I started to be interested into cryptocurrency and then by Blockchain. <br/>
             My aim is to work on several Blockchain projects with a team in order to increase my skills.
           </p>
         </div>
