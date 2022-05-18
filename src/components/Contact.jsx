@@ -2,7 +2,6 @@ import React from 'react';
 import emailjs from '@emailjs/browser';
 import {
     FaDribbbleSquare,
-    FaFacebookSquare,
     FaGithubSquare,
     FaInstagram,
     FaTwitterSquare,
@@ -34,10 +33,10 @@ const Contact = () => {
           </h1>
           <p className="mt-6">Andy Guerin, 2022 All rights reserved</p>
           <div className='flex gap-7 md:w-[75%] my-6'>
-          <a  target="_blank" href="https://www.linkedin.com/in/andyguerin/"><FaLinkedin size={30} /></a>
+          <a  target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/andyguerin/"><FaLinkedin size={30} /></a>
             <FaInstagram size={30} />
-            <a  target="_blank" href="https://twitter.com/k0ezen77"><FaTwitterSquare size={30} /></a>
-          <a  target="_blank" href="https://github.com/k0ezeN"><FaGithubSquare size={30} /></a>
+            <a  target="_blank" rel="noreferrer" href="https://twitter.com/k0ezen77"><FaTwitterSquare size={30} /></a>
+          <a  target="_blank" rel="noreferrer" href="https://github.com/k0ezeN"><FaGithubSquare size={30} /></a>
             <FaDribbbleSquare size={30} />
         </div>
         </div>
